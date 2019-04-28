@@ -1,11 +1,11 @@
 {
   "name": "jqvmap",
-  "version": "1.5.1",
-  "homepage": "http://jqvmap.com",
+  "version": "1.6.0",
+  "homepage": "",
   "author": {
     "name": "JQVMap",
-    "email": "me@peterschmalfeldt.com",
-    "url": "http://jqvmap.com"
+    "email": "bbmumford@gmail.com",
+    "url": ""
   },
   "license": "(MIT OR GPL-3.0)",
   "description": "jQuery Vector Map Library",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/manifestinteractive/jqvmap.git"
+    "url": "https://github.com/CivilError/jqvmap.git"
   },
   "dependencies": {
     "jquery": "^3.4.0"
