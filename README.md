@@ -1,4 +1,4 @@
-jQuery Vector Map
+jQuery Vector Map (no vulnerabilities + updated regions)
 ======
 
 To get started, all you need to do is include the JavaScript and CSS files for the map you want to load ( contained in the `./dist` folder ).
